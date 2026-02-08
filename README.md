@@ -13,3 +13,6 @@ How to Use
 - Add XDFs: Drag and drop your XDF files or use the "Add Files" button.
 - Translate: Hit "START BATCH TRANSLATION". The translated files will be created with a _translated suffix.
 - Check Reports: If some terms were missing, check missing_descriptions.txt to see what needs adding to your CSV.
+
+![main GUI](screenshot1.png)
+![result](screenshot2.png)
